@@ -15,3 +15,11 @@ members = [
     "artifact-registry",
     "kms"
 ]
+
+[patch.crates-io.tonic]
+git = "https://github.com/hyperium/tonic.git"
+rev = "e2c506aca5810ceeb6d41190779b7291fcf19d90"
+
+[patch.crates-io.tonic-build]
+git = "https://github.com/hyperium/tonic.git"
+rev = "e2c506aca5810ceeb6d41190779b7291fcf19d90"
