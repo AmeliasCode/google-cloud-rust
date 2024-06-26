@@ -18,8 +18,8 @@ members = [
 
 [patch.crates-io.tonic]
 git = "https://github.com/hyperium/tonic.git"
-rev = "e2c506aca5810ceeb6d41190779b7291fcf19d90"
+rev = "d312dcc0ec362cb12f6e54072622761d7466a650"
 
 [patch.crates-io.tonic-build]
 git = "https://github.com/hyperium/tonic.git"
-rev = "e2c506aca5810ceeb6d41190779b7291fcf19d90"
+rev = "d312dcc0ec362cb12f6e54072622761d7466a650"
